@@ -1,0 +1,15 @@
+Appetizers Mozzarella Sticks 7.50
+Appetizers Boneless Wings 9.50
+Appetizers Mac & Cheese 9.50
+Appetizers Spinach Artichoke Dip 6.50
+Entrees Hamburger & Fries 9.50
+Entrees Nachos 8.50
+Entrees Tacos al Pastor 6.50
+Entrees Club Sandwich 6.50
+Entrees Chicken Parmesan 9.50
+Drinks Soda 2.00
+Drinks Tea 2.25
+Drinks Coffee 2.25
+Desserts Ice Cream 4.00
+Desserts Brownie 6.00
+Desserts Flan 4.00

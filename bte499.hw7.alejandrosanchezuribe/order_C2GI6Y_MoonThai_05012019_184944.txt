@@ -1,0 +1,18 @@
+Moon Thai
+Meal # 1 has 4 item(s)
+Appetizers Spring Rolls 6.00
+Entrees Basil Fried Rice 10.00
+Entrees Vegetarian Red Curry 12.00
+Entrees Vegetarian Red Curry 12.00
+Appetizers Spring Rolls 6.00
+Entrees Basil Fried Rice 10.00
+Entrees Basil Fried Rice 10.00
+Meal # 2 has 3 item(s)
+Appetizers Spring Rolls 6.00
+Entrees Basil Fried Rice 10.00
+Entrees Vegetarian Red Curry 12.00
+Entrees Vegetarian Red Curry 12.00
+Appetizers Spring Rolls 6.00
+Entrees Basil Fried Rice 10.00
+Entrees Basil Fried Rice 10.00
+Subtotal: 66.00Tax: 4.29Tip: 13.20Total: 83.49

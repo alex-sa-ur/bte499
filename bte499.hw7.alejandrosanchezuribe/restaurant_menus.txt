@@ -1,0 +1,70 @@
+Moon Thai
+Appetizers, Spring Rolls, 6.00
+Appetizers, Edamame, 5.00
+Appetizers, Fried Calamari, 8.50
+Entrees, Pad Thai Vegetables,11.00
+Entrees, Basil Fried Rice, 10.00
+Entrees, Vegetarian Red Curry, 12.00
+Entrees, Vegetarian Yellow Curry, 12.00
+Drinks, Bottled Water, 1.00
+Drinks, Soda Can, 1.00
+END
+La Pizza
+Appetizers, Garlic Bread, 7.50
+Appetizers, Cheese Bread, 8.90
+Appetizers, Burrata & Tomatoes, 11.90
+Pizzas, Mushroom & Truffle Pizza, 16.90
+Pizzas, Caprese Pizza, 12.90
+Pizzas, Napoli Pizza, 14.90
+Pastas, Pesto Spaghetti, 12.90
+Drinks, Bottled Water, 1.00
+Drinks, Soda Can, 1.00
+Drinks, Espresso Coffee, 2.50
+Desserts, Tiramisu, 7.90
+Desserts, Brownie, 7.90
+Desserts, Nutella Pizza, 9.90
+END
+Denny's
+Sides, Onion Rings, 6.00
+Sides, Hash Browns, 3.00
+Sides, Wavy Cut Fries, 4.00
+Sides, Seasonal Fruit, 3.00
+Pancakes, Tres Leches Pancakes, 8.00
+Pancakes, Salted Caramel & Banana Cream Pancakes, 8.00
+Sandwiches, Grilled Tuscan Chicken Sandwich, 12.00
+Sandwiches, Club Sandwich, 10.00
+Drinks, Bottled Water, 1.00
+Drinks, Soda Can, 1.00
+Drinks, Juice, 1.50
+Drinks, American Coffee, 1.50
+Drinks, Milkshake, 4.00
+Desserts, Chocolate Lava Cake, 6.00
+Desserts, Cheesecake, 8.00
+END
+ROK:BRGR
+Snacks, Mac n' Cheese, 8.00
+Snacks, Loaded Tater Tots, 8.00
+Snacks, Grilled Chicken Wings, 10.00
+Burgers, ROK:BRGR, 12.00
+Burgers, South Florida, 17.00
+Burgers, El Diablo, 16.00
+Burgers, Black n' Bleu, 17.00
+Burgers, Sweet Caroline, 17.00
+Burgers, Veggie Burger, 12.00
+Sides, Handcut Fries, 2.00
+Sides, Truffle Parmesan Fries, 4.00
+Sides, Sweet Potato Wedges, 4.00
+Drinks, Bottled Water, 1.00
+Drinks, Soda Can, 1.00
+END
+TacoCraft
+Appetizers, Queso Fundido, 10.00
+Appetizers, Chips & Guacamole, 8.00
+Appetizers, Traditional Street Corn, 6.00
+Tacos, Kale & Sweet Potato, 3.00
+Tacos, Crispy Tofu, 3.00
+Tacos, Crispy Pork, 4.00
+Tacos, Chorizo, 4.00
+Drinks, Bottled Water, 1.00
+Drinks, Soda Can, 1.00
+END
